@@ -2298,6 +2298,7 @@ eg.
 <part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
 <part name="R12" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
 <part name="S1" library="LL" deviceset="SWITCH-DP3T" device=""/>
+<part name="C4" library="SparkFun - Copy" deviceset="CAP" device="0805"/>
 </parts>
 <sheets>
 <sheet>
@@ -2355,6 +2356,7 @@ eg.
 <instance part="SUPPLY11" gate="GND" x="-7.62" y="99.06"/>
 <instance part="R12" gate="G$1" x="-27.94" y="101.6"/>
 <instance part="S1" gate="G$1" x="58.42" y="43.18"/>
+<instance part="C4" gate="G$1" x="132.08" y="121.92"/>
 </instances>
 <busses>
 </busses>
@@ -2408,6 +2410,8 @@ eg.
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="1V2REG" gate="G$1" pin="GND"/>
 <pinref part="SUPPLY10" gate="GND" pin="GND"/>
+<pinref part="C4" gate="G$1" pin="2"/>
+<junction x="132.08" y="119.38"/>
 </segment>
 <segment>
 <wire x1="5.08" y1="114.3" x2="7.62" y2="114.3" width="0.1524" layer="91"/>
@@ -2513,6 +2517,8 @@ eg.
 <wire x1="132.08" y1="127" x2="132.08" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="1V2REG" gate="G$1" pin="VI"/>
 <pinref part="SUPPLY7" gate="1" pin="V+"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<junction x="132.08" y="127"/>
 </segment>
 </net>
 <net name="V-" class="0">
