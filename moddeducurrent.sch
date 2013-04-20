@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,16 +39,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -2243,19 +2243,19 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 </classes>
 <parts>
 <part name="IC1" library="linear" deviceset="TLC251" device="D"/>
-<part name="C1" library="SparkFun - Copy" deviceset="CAP" device="0805"/>
-<part name="C2" library="SparkFun - Copy" deviceset="CAP" device="0805"/>
-<part name="R1" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R2" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R3" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
+<part name="C1" library="SparkFun - Copy" deviceset="CAP" device="0805" value="0.1u"/>
+<part name="C2" library="SparkFun - Copy" deviceset="CAP" device="0805" value="0.1u"/>
+<part name="R1" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="10k 0.1%"/>
+<part name="R2" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="10R 0.1%"/>
+<part name="R3" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="0R01 0.1%"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY3" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY4" library="supply2" deviceset="GND" device=""/>
-<part name="R4" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R5" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R6" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R7" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
+<part name="R4" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="100R 1%"/>
+<part name="R5" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="75k 0.1%"/>
+<part name="R6" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="24k 0.1%"/>
+<part name="R7" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="1k 0.1%"/>
 <part name="GND" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY5" library="supply2" deviceset="V+" device=""/>
 <part name="SUPPLY8" library="supply2" deviceset="V-" device=""/>
@@ -2264,14 +2264,14 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 <part name="IC2" library="linear" deviceset="LMV321?*" device="M5" technology="X"/>
 <part name="POWERSWITCH" library="ebay" deviceset="SWITCH-DPDT" device="DPDTSMDBENT"/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
-<part name="R9" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="R10" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
+<part name="R9" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="100k 1%"/>
+<part name="R10" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="100k 1%"/>
 <part name="SUPPLY12" library="supply2" deviceset="V+" device=""/>
 <part name="GND1" library="supply2" deviceset="GND" device=""/>
 <part name="1V2REG" library="linear" deviceset="MCP1703" device="CB"/>
-<part name="C3" library="SparkFun - Copy" deviceset="CAP" device="0805"/>
+<part name="C3" library="SparkFun - Copy" deviceset="CAP" device="0805" value="0.1u"/>
 <part name="MODESWITCH" library="ebay" deviceset="SWITCH-DPDT" device="DPDTSMDBENT"/>
-<part name="R11" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="120ohm"/>
+<part name="R11" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="120ohm 0.1%"/>
 <part name="JP1" library="SparkFun - Copy" deviceset="M01" device="PTH"/>
 <part name="JP3" library="SparkFun - Copy" deviceset="M01" device="PTH"/>
 <part name="JP4" library="SparkFun - Copy" deviceset="M01" device="PTH"/>
@@ -2282,11 +2282,11 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 <part name="SUPPLY7" library="supply2" deviceset="V+" device=""/>
 <part name="R8" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="0ohm"/>
 <part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
-<part name="R12" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
+<part name="R12" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="0R"/>
 <part name="S1" library="LL" deviceset="SWITCH-DP3T" device=""/>
-<part name="C4" library="SparkFun - Copy" deviceset="CAP" device="0805"/>
-<part name="R13" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES"/>
-<part name="C5" library="SparkFun - Copy" deviceset="CAP" device="0805"/>
+<part name="C4" library="SparkFun - Copy" deviceset="CAP" device="0805" value="0.1u"/>
+<part name="R13" library="SparkFun - Copy" deviceset="RESISTOR" device="0805-RES" value="100R"/>
+<part name="C5" library="SparkFun - Copy" deviceset="CAP" device="0805" value="0.1u"/>
 </parts>
 <sheets>
 <sheet>
@@ -2320,7 +2320,7 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 <instance part="SUPPLY5" gate="1" x="137.16" y="99.06"/>
 <instance part="SUPPLY8" gate="1" x="139.7" y="63.5"/>
 <instance part="X1" gate="G$1" x="-45.72" y="73.66" rot="R180"/>
-<instance part="X2" gate="G$1" x="-45.72" y="91.44" rot="R180"/>
+<instance part="X2" gate="G$1" x="-48.26" y="91.44" rot="R180"/>
 <instance part="IC2" gate="G$1" x="15.24" y="116.84"/>
 <instance part="POWERSWITCH" gate="G$1" x="-25.4" y="119.38" rot="R180"/>
 <instance part="SUPPLY10" gate="GND" x="132.08" y="111.76"/>
@@ -2545,7 +2545,7 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 </net>
 <net name="VUSB_EXTERN" class="0">
 <segment>
-<wire x1="-40.64" y1="88.9" x2="-43.18" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="-40.64" y1="88.9" x2="-45.72" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="-40.64" y1="71.12" x2="-40.64" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="-43.18" y1="71.12" x2="-40.64" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="X2" gate="G$1" pin="VBUS"/>
@@ -2556,7 +2556,7 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 <segment>
 <wire x1="-43.18" y1="66.04" x2="-38.1" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="-38.1" y1="66.04" x2="-38.1" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="-38.1" y1="83.82" x2="-43.18" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="-38.1" y1="83.82" x2="-45.72" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="X1" gate="G$1" pin="D+"/>
 <pinref part="X2" gate="G$1" pin="D+"/>
 </segment>
@@ -2670,7 +2670,7 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 <net name="N$11" class="0">
 <segment>
 <wire x1="-30.48" y1="83.82" x2="-33.02" y2="86.36" width="0.1524" layer="91"/>
-<wire x1="-33.02" y1="86.36" x2="-43.18" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="-33.02" y1="86.36" x2="-45.72" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="-30.48" y1="83.82" x2="-30.48" y2="78.74" width="0.1524" layer="91"/>
 <pinref part="X2" gate="G$1" pin="D-"/>
 <pinref part="R8" gate="G$1" pin="2"/>
@@ -2678,7 +2678,7 @@ www.SparkFun.com SKU : Comp-SMDS</description>
 </net>
 <net name="N$6" class="0">
 <segment>
-<wire x1="-43.18" y1="91.44" x2="-38.1" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="-45.72" y1="91.44" x2="-38.1" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="-38.1" y1="91.44" x2="-38.1" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="-38.1" y1="101.6" x2="-33.02" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="X2" gate="G$1" pin="GND"/>

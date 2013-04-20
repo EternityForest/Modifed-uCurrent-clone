@@ -466,25 +466,25 @@ Toner transfer etch tuned DRU</description>
 </autorouter>
 <elements>
 <element name="IC1" library="linear" package="SO08" value="TLC251D" x="37.9116" y="70.7952"/>
-<element name="C1" library="SparkFun - Copy" package="0805" value="" x="26.1366" y="59.6646" rot="R270"/>
-<element name="C2" library="SparkFun - Copy" package="0805" value="" x="35.79" y="59.3916" rot="R180"/>
-<element name="R1" library="SparkFun - Copy" package="0805" value="" x="10.1396" y="73.8796" rot="R180"/>
-<element name="R2" library="SparkFun - Copy" package="0805" value="" x="14.8336" y="78.7908" rot="R180"/>
-<element name="R3" library="SparkFun - Copy" package="0805" value="" x="9.7028" y="69.5452" rot="R180"/>
-<element name="R4" library="SparkFun - Copy" package="0805" value="" x="4.6852" y="63.7384" rot="R270"/>
-<element name="R5" library="SparkFun - Copy" package="0805" value="" x="33.4824" y="70.2664" rot="R90"/>
-<element name="R6" library="SparkFun - Copy" package="0805" value="" x="33.3696" y="66.9024" rot="R90"/>
-<element name="R7" library="SparkFun - Copy" package="0805" value="" x="32.5488" y="60.174" rot="R90"/>
+<element name="C1" library="SparkFun - Copy" package="0805" value="0.1u" x="26.1366" y="59.6646" rot="R270"/>
+<element name="C2" library="SparkFun - Copy" package="0805" value="0.1u" x="35.79" y="59.3916" rot="R180"/>
+<element name="R1" library="SparkFun - Copy" package="0805" value="10k 0.1%" x="10.1396" y="73.8796" rot="R180"/>
+<element name="R2" library="SparkFun - Copy" package="0805" value="10R 0.1%" x="14.8336" y="78.7908" rot="R180"/>
+<element name="R3" library="SparkFun - Copy" package="0805" value="0R01 0.1%" x="9.7028" y="69.5452" rot="R180"/>
+<element name="R4" library="SparkFun - Copy" package="0805" value="100R 1%" x="4.6852" y="63.7384" rot="R270"/>
+<element name="R5" library="SparkFun - Copy" package="0805" value="75k 0.1%" x="33.4824" y="70.2664" rot="R90"/>
+<element name="R6" library="SparkFun - Copy" package="0805" value="24k 0.1%" x="33.3696" y="66.9024" rot="R90"/>
+<element name="R7" library="SparkFun - Copy" package="0805" value="1k 0.1%" x="32.5488" y="60.174" rot="R90"/>
 <element name="X1" library="SparkFun - Copy" package="USB-A-PCB" value="USBPCB" x="20.8788" y="38.6588" rot="R270"/>
 <element name="X2" library="SparkFun - Copy" package="USB-MINIB-OLD" value="USBOLD" x="6.2992" y="41.4528"/>
 <element name="IC2" library="linear" package="SOT23-5" value="LMV321M5X" x="30.0736" y="54.2544"/>
 <element name="POWERSWITCH" library="ebay" package="AYZ0202" value="SWITCH-DPDTDPDTSMDBENT" x="5.6736" y="53.6288" rot="R180"/>
-<element name="R9" library="SparkFun - Copy" package="0805" value="" x="26.6192" y="48.768" rot="R180"/>
-<element name="R10" library="SparkFun - Copy" package="0805" value="" x="19.9136" y="52.0192" rot="R180"/>
+<element name="R9" library="SparkFun - Copy" package="0805" value="100k 1%" x="26.6192" y="48.768" rot="R180"/>
+<element name="R10" library="SparkFun - Copy" package="0805" value="100k 1%" x="19.9136" y="52.0192" rot="R180"/>
 <element name="1V2REG" library="linear" package="SOT23" value="MCP1703CB" x="13.6144" y="53.4416"/>
-<element name="C3" library="SparkFun - Copy" package="0805" value="" x="16.3576" y="52.1208" rot="R90"/>
+<element name="C3" library="SparkFun - Copy" package="0805" value="0.1u" x="16.3576" y="52.1208" rot="R90"/>
 <element name="MODESWITCH" library="ebay" package="AYZ0202" value="SWITCH-DPDTDPDTSMDBENT" x="11.811" y="64.9986" rot="R270"/>
-<element name="R11" library="SparkFun - Copy" package="0805" value="120ohm" x="2.1312" y="62.3424"/>
+<element name="R11" library="SparkFun - Copy" package="0805" value="120ohm 0.1%" x="2.1312" y="62.3424"/>
 <element name="JP1" library="SparkFun - Copy" package="1X01" value="M01PTH" x="43.0784" y="64.008"/>
 <element name="JP3" library="SparkFun - Copy" package="1X01" value="M01PTH" x="27.6606" y="46.228"/>
 <element name="JP4" library="SparkFun - Copy" package="1X01" value="M01PTH" x="9.5504" y="49.3776"/>
@@ -492,11 +492,11 @@ Toner transfer etch tuned DRU</description>
 <element name="JP6" library="SparkFun - Copy" package="1X01" value="M01PTH" x="16.8656" y="47.9552"/>
 <element name="JP2" library="SparkFun - Copy" package="1X01" value="M01PTH" x="9.7536" y="78.0288"/>
 <element name="R8" library="SparkFun - Copy" package="0805" value="0ohm" x="13.6144" y="42.2656" rot="R180"/>
-<element name="R12" library="SparkFun - Copy" package="0805" value="" x="13.4112" y="38.8112" rot="R270"/>
+<element name="R12" library="SparkFun - Copy" package="0805" value="0R" x="13.4112" y="38.8112" rot="R270"/>
 <element name="S1" library="LL" package="SWITCH-DP3T-SMD" value="" x="20.193" y="72.7456" rot="R270"/>
-<element name="C4" library="SparkFun - Copy" package="0805" value="" x="10.9728" y="53.5432" rot="R270"/>
-<element name="R13" library="SparkFun - Copy" package="0805" value="" x="37.084" y="76.2" rot="R180"/>
-<element name="C5" library="SparkFun - Copy" package="0805" value="" x="30.988" y="57.277"/>
+<element name="C4" library="SparkFun - Copy" package="0805" value="0.1u" x="10.9728" y="53.5432" rot="R270"/>
+<element name="R13" library="SparkFun - Copy" package="0805" value="100R" x="37.084" y="76.2" rot="R180"/>
+<element name="C5" library="SparkFun - Copy" package="0805" value="0.1u" x="30.988" y="57.277"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -950,16 +950,6 @@ Toner transfer etch tuned DRU</description>
 <wire x1="35.041" y1="75.438" x2="36.184" y2="76.2" width="0.3048" layer="1"/>
 </signal>
 </signals>
-<errors>
-<approved hash="5,1,6e51ca2c164c7ddd"/>
-<approved hash="5,1,6e31ceb415647a0d"/>
-<approved hash="5,1,6e51c6841ab47d8d"/>
-<approved hash="5,1,3c373c7532cfbaf5"/>
-<approved hash="5,1,3a436c1b54ff2a5b"/>
-<approved hash="5,1,2a76dbd1d416384e"/>
-<approved hash="5,1,71d4793f6f9b61a3"/>
-<approved hash="5,1,ebd5e33bba1fb422"/>
-</errors>
 </board>
 </drawing>
 </eagle>
